@@ -2,7 +2,6 @@
 
 ![Estado](https://img.shields.io/badge/Estado-Completado-success)
 ![Tipo](https://img.shields.io/badge/Tipo-Electrónica%20Analógica-blue)
-![Regulador](https://img.shields.io/badge/Regulador-LM317-orange)
 ![PCB](https://img.shields.io/badge/PCB-1%20Capa-green)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
 
